@@ -902,7 +902,7 @@ address {
   letter-spacing:0.04em;
   text-decoration: underline;
 }
-.modal-checkbox-span {
+.modal-checkbox-text span {
   display: inline-flex;
   justify-content: center;
   align-items: center;
